@@ -7,11 +7,11 @@ itemGroup.tabDefiledLands=污秽之地
 #Blocks
 #----------------------------
 tile.defiledlands.stone_defiled.name=污秽之石
-tile.defiledlands.sandstone_defiled.name=污秽沙石
+tile.defiledlands.sandstone_defiled.name=污秽砂岩
 tile.defiledlands.sand_defiled.name=污秽沙子
 tile.defiledlands.dirt_defiled.name=污秽之土
 tile.defiledlands.grass_defiled.name=污秽草方块
-tile.defiledlands.gravel_defiled.name=污秽砂砾
+tile.defiledlands.gravel_defiled.name=污秽沙砾
 
 tile.defiledlands.stone_defiled_decoration.bricks.name=污秽之石砖
 tile.defiledlands.stone_defiled_decoration.bricks_cracked.name=污秽裂石砖
@@ -19,11 +19,11 @@ tile.defiledlands.stone_defiled_decoration.bricks_mossy.name=污秽苔石砖
 tile.defiledlands.stone_defiled_decoration.mossy.name=污秽苔石
 tile.defiledlands.tenebra_door.name=阴暗木门
 tile.defiledlands.stone_defiled_slab.stone.name=污秽之石台阶
-tile.defiledlands.stone_defiled_slab.sandstone.name=污秽沙石台阶
+tile.defiledlands.stone_defiled_slab.sandstone.name=污秽砂岩台阶
 tile.defiledlands.stone_defiled_slab.bricks.name=污秽石砖台阶
 tile.defiledlands.wood_defiled_slab.tenebra.name=阴暗之木台阶
 tile.defiledlands.stone_defiled_stairs.name=污秽之石楼梯
-tile.defiledlands.sandstone_defiled_stairs.name=污秽沙石楼梯
+tile.defiledlands.sandstone_defiled_stairs.name=污秽砂岩楼梯
 tile.defiledlands.stone_defiled_bricks_stairs.name=污秽石砖楼梯
 tile.defiledlands.tenebra_stairs.name=阴暗之木楼梯
 tile.defiledlands.ravaging_decoration.stone.name=毁灭石
@@ -40,9 +40,9 @@ tile.defiledlands.blastem.name=爆炸植物
 tile.defiledlands.scuronotte.name=黑夜蘑菇
 
 tile.defiledlands.hephaestite_ore.name=赫菲斯辛矿石
-tile.defiledlands.hephaestite_ore.tooltip=炙手可热...
+tile.defiledlands.hephaestite_ore.tooltip=炙手可热……
 tile.defiledlands.hephaestite_block.name=赫菲斯辛块
-tile.defiledlands.hephaestite_block.tooltip=炙手可热...
+tile.defiledlands.hephaestite_block.tooltip=炙手可热……
 tile.defiledlands.umbrium_ore.name=影素矿石
 tile.defiledlands.umbrium_block.name=影素块
 tile.defiledlands.scarlite_ore.name=绯红宝石矿石
@@ -209,7 +209,7 @@ ui.defiledlands.book_wyrm_analyze.digesting=正在消化: %s个等级
 ui.defiledlands.book_wyrm_analyze.maturing=还需要%s分钟成熟
 ui.defiledlands.book_wyrm_analyze.reproduce=到下一次繁殖至少还需%s分钟
 ui.defiledlands.book_wyrm_analyze.ready=可以交配
-ui.defiledlands.book_wyrm_analyze.golden=这个标本发出奇妙的金光...
+ui.defiledlands.book_wyrm_analyze.golden=这个标本发出奇妙的金光……
 
 ui.defiledlands.pellet.damage=伤害
 
@@ -219,7 +219,7 @@ ui.defiledlands.jei.defilement=污染
 #Advancements
 #----------------------------
 advancements.defiledlands.root.title=污秽之地
-advancements.defiledlands.root.description=一阵寒意爬上了你的脊背...
+advancements.defiledlands.root.description=一阵寒意爬上了你的脊背……
 advancements.defiledlands.hephaestite.title=锻神的礼物
 advancements.defiledlands.hephaestite.description=挖掘赫菲斯辛矿石
 advancements.defiledlands.blastem_fruit_blazing.title=用火洗涤
